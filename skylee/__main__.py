@@ -25,11 +25,12 @@ Hey there! my name is *{dispatcher.bot.first_name}*. If you have any questions o
 
 Click Help button to find out more about how to use me to my full potential.
 
-Join SuperMairo Group [SuperMarioSupport](http://t.me/SupermarioSupport) ( @SuperMairoUpdates ) if you need any support or help.
+[Join My Support Group](http://t.me/DoreMonSupport)
+if you need any support or help.
 
-Made with love by [KR$NA](http://t.me/SeedhaMaut), [ﾚの刀乇 Wのﾚｷ](http://t.me/MetaForce_XD)
+I am still in test mode please don't add me in any group
 
-Want to add me to your group? Click here! [Click Here](http://t.me/SupMario_bot?startgroup=true)
+Want to add me to your group? Click here! [Click Here](http://t.me/MyProFirst_Bot?startgroup=true)
 """
 
 buttons = [[
