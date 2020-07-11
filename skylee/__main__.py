@@ -25,17 +25,17 @@ Hey there! my name is *{dispatcher.bot.first_name}*. If you have any questions o
 
 Click Help button to find out more about how to use me to my full potential.
 
-[Join My Support Group](http://t.me/DoreMonSupport)
+That's It. 
 if you need any support or help.
 
 I am still in test mode please don't add me in any group
 
-Want to add me to your group? Click here! [Click Here](http://t.me/MyProFirst_Bot?startgroup=true)
+Want to add me to your group? Click here! [Click Here](http://t.me/MisskajalBOT?startgroup=true)
 """
 
 buttons = [[
-InlineKeyboardButton(text="Add to Group 🎉", url="t.me/SupMario_bot?startgroup=true"),
-InlineKeyboardButton(text="Updates 🔔", url="https://t.me/SuperMairoUpdates")
+InlineKeyboardButton(text="Add to Group 🎉", url="t.me/MisskajalBOT?startgroup=true"),
+InlineKeyboardButton(text="Updates 🔔", url="https://t.me/MM_MOViESHUNT")
                   ]]
 
 buttons += [[InlineKeyboardButton(text="Help❔", callback_data="help_back")]]
